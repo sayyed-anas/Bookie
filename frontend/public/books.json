@@ -1,0 +1,98 @@
+[
+  {
+    "id":1,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image":"img/banner.png"
+  },
+  {
+    "id":2,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":300,
+    "category":"paid",
+    "image":"img/banner.png"
+  },
+  {
+    "id":3,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image":"img/banner.png"
+  },
+  {
+    "id":4,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image":"img/banner.png"
+  },
+  {
+    "id":5,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":100,
+    "category":"paid",
+    "image":"img/banner.png"
+  },
+  {
+    "id":6,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image":"img/banner.png"
+  },
+  {
+    "id":7,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image":"img/banner.png"
+  },
+  {
+    "id":8,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":200,
+    "category":"paid",
+    "image":"img/banner.png"
+  },
+  {
+    "id":9,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":0,
+    "category":"Free",
+    "image":"img/banner.png"
+  },
+  {
+    "id":10,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":110,
+    "category":"paid",
+    "image":"img/banner.png"
+  },
+  {
+    "id":11,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":130,
+    "category":"paid",
+    "image":"img/banner.png"
+  },
+  {
+    "id":12,
+    "name":"Story book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price":120,
+    "category":"paid",
+    "image":"img/banner.png"
+  }
+]
